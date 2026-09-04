@@ -97,7 +97,7 @@ open an issue or DM. Credit is not optional, if I missed a line, it gets fixed.*
 
 ## Contact / elsewhere
 
-- X / Twitter: [@ColdSlither_ai](https://x.com/ColdSlither_ai)
+- X / Twitter: [@ItsColdSlither](https://x.com/ItsColdSlither)
 - Location: New Jersey, USA
 - Company: Intron
 
